@@ -60,18 +60,3 @@ Example questions:
 - **OpenPyXL**
 
 ---
-
-## 📁 Project Structure
-
-```text
-StudentPerformanceAI/
-│
-├── app.py              # Main Streamlit application
-├── marksheet.py        # Student performance analytics
-├── attendance.py       # Attendance analytics
-├── auth.py             # Authentication functionality
-├── db.py               # Database-related functionality
-├── utils.py             # Utility functions
-├── requirements.txt    # Python dependencies
-├── .gitignore          # Git ignored files
-└── README.md           # Project documentation
